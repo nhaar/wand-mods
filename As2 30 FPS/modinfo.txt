@@ -1,0 +1,4 @@
+name=30 FPS for AS2
+author=
+version=
+description=
